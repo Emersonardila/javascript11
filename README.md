@@ -32,6 +32,7 @@ Ejemplo de página de similares características a lo solicitado:
 
 ## Extra
 Si cuenta con tiempo y energía puede desplegar su página en github pages y ¡compartirla entre sus conocidos! En caso de desplegar su página en github pages agregar en enlace en este README para que podamos apreciarla y difundirla.
+pagina https://emersonardila.github.io/javascript11/
 
 # Entrega
 Una vez haya alcanzado el objetivo planteado en el enunciado, deberá subir todos los archivos que haya trabajado al respositorio github, eso incluye:
